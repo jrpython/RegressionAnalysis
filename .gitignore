@@ -1,0 +1,14 @@
+# ignore .git and .ipynb_checkpoints folder
+.git/
+.ipynb_checkpoints/
+
+# ignore file name containing InProgress
+*InProgress*
+
+# ignore file name containing Backup
+*backup*
+*Backup*
+*BackUp*
+
+# ignore excel files
+*.xlsx
